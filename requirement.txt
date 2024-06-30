@@ -1,0 +1,5 @@
+streamlit
+openai
+PyMuPDF
+openai
+chromadb
