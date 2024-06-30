@@ -1,0 +1,46 @@
+{
+    "openAIConfigs": [
+        { 
+            "configName": "westus",
+            "azureEndpoint": "https://hackathonregionwestus.openai.azure.com/",
+            "apiVersion": "2024-02-01",
+            "model": "gpt-4o-West-US",
+            "apiKey": "fccb3566bca141ab9fbf95e8d7ae3a70"
+        },
+        { 
+            "configName": "eastus2",
+            "azureEndpoint": "https://regioneastus2.openai.azure.com/",
+            "apiVersion": "2024-02-01",
+            "model": "gpt-4o-East-US2",
+            "apiKey": "a096090373464949980ad13a8291afa3"
+        },
+        { 
+            "configName": "swedencentral",
+            "azureEndpoint": "https://regionswedencentral.openai.azure.com/",
+            "apiVersion": "2024-02-01",
+            "model": "gpt-4o-Sweden-Central",
+            "apiKey": "58388c947e0540da94bc64899b945ae8"
+        },
+        { 
+            "configName": "westus3",
+            "azureEndpoint": "https://regionwestus3.openai.azure.com/",
+            "apiVersion": "2024-02-01",
+            "model": "gpt-4o-West-US3",
+            "apiKey": "2eb6f7ecf77a4b348cd72b02d9cdd53e"
+        },
+        { 
+            "configName": "northcentralus",
+            "azureEndpoint": "https://regionnorthcentralus.openai.azure.com/",
+            "apiVersion": "2024-02-01",
+            "model": "gpt-4o-North-Central-US",
+            "apiKey": "5225339507104ac386d4ab18f5fa8361"
+        },
+        { 
+            "configName": "southcentralus",
+            "azureEndpoint": "https://regionsouthcentralus.openai.azure.com/",
+            "apiVersion": "2024-02-01",
+            "model": "gpt-4o-South-Central-US",
+            "apiKey": "f5f0f8685d7e48239b77187d14f5130a"
+        }
+    ]
+}
